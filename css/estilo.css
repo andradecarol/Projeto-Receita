@@ -1,0 +1,55 @@
+main {
+    background-color: white;  
+    box-shadow: 0px 0px 10px #dfe0e0;  
+}
+
+
+img#logo {
+    width: 30px;
+    height: 30px;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    text-align: center;
+    padding: 50px;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a#cor-menu {
+    color: white;
+}
+
+figcaption{
+    text-align: center;
+
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(219, 218, 218);
+    color: black;
+  }
+
+section#igredientes {
+    background-color: rgb(250, 220, 220);
+}
+
+
+
+
+
+
+
+
+
+
+
+
